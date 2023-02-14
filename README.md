@@ -1,1 +1,1 @@
-# Applied-Data-Science-Capstone-Wk1
+# Applied-Data-Science-Capstone
